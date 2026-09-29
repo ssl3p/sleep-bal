@@ -24,11 +24,11 @@ Et voilà, votre système de **boîtes aux lettres** est prêt à l'emploi ! �
 
 ## 🔧 Configuration
 
-<img width="1512" height="436" alt="code" src="https://github.com/user-attachments/assets/43ecab3e-ba7f-44f1-bc27-0706a2d6a6b7" />
+<img width="583" height="407" alt="image" src="https://github.com/user-attachments/assets/4557002b-2be1-4e4c-ad11-25c6397e4076" />
 
 ---
 
-## 🧑‍💻 Utilisation admin
+## 🧑‍💻 Vidéo de preview
 
 https://youtu.be/-zO9d5UC28g
 
